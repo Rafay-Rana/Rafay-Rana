@@ -48,7 +48,7 @@ A growing repository of Data Structures & Algorithms solutions in **Python** and
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,flutter,firebase,tensorflow,git,github,vscode,linux,anaconda"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,firebase,tensorflow,git,github,vscode,linux,anaconda"/>
 
 </p>
 
