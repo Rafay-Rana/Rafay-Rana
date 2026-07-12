@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 
 <h3 align="center">
-Python Developer • AI & Machine Learning Enthusiast • Flutter Developer
+Python Developer • AI & Machine Learning Enthusiast 
 </h3>
 
 <p align="center">
@@ -20,7 +20,6 @@ Python Developer • AI & Machine Learning Enthusiast • Flutter Developer
 - 🎓 Computer Science Student at **Riphah International University**
 - 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
 - 🐍 Python Developer
-- 📱 Flutter Developer
 - 💻 Solving **Data Structures & Algorithms** on LeetCode
 - 🚀 Currently building AI-powered applications
 
