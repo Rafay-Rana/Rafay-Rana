@@ -5,7 +5,7 @@ Python Developer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/abdul-rafay-a3304027a">
+  <a href="https://www.linkedin.com/in/abdul-rafay-a3304027a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="rafayrana1939@gmail.com">
@@ -99,7 +99,7 @@ A growing repository of Data Structures & Algorithms solutions in **Python** and
 
 <p align="center">
 
-<a href="www.linkedin.com/in/abdul-rafay-a3304027a">
+<a href="https://www.linkedin.com/in/abdul-rafay-a3304027a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
